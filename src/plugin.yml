@@ -1,0 +1,9 @@
+name: MattsArmorStands
+description: "Developed by MM5."
+version: 1.0
+main: xyz.dashnetwork.mattsarmorstands.MattsArmorStandsMain
+
+commands:
+  mattsarmorstands:
+    usage: "Matts Armor Stands"
+    description: Matts Armor Stands
